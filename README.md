@@ -1,5 +1,5 @@
 # VIEH-GROUP
-I create this encryption code under the internship VIEH Group.
+I createD this encryption code under the internship VIEH Group.
 I write my code in the c++ language in which I was confident towrite my code. 
 As we execute the file the compiler will run it and will ask to enter the message to encrypt the file.
 I created this encryption code under the internship opportunity I got by the VIEH Group.
